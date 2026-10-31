@@ -1,0 +1,4 @@
+﻿# Never commit credential output
+*.csv
+account_passwords*.csv
+*.log
